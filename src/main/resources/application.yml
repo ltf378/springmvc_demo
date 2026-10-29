@@ -18,3 +18,4 @@ aliyun:
     endpoint: https://oss-cn-beijing.aliyuncs.com
     bucketName: java-ai-ltf
     region: cn-beijing
+myName: itheima
